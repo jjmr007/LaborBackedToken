@@ -1,0 +1,6 @@
+dump.asciidoc
+code/python-env
+*.csv
+*.pdf
+.debris
+_build/
