@@ -1,6 +1,6 @@
 [[satoshi_whitepaper]]
 [paper]
-== The Bitcoin Whitepaper by Satoshi Nakamoto
+== Un Sistema de Tokens Respaldados por la Producción y Labores
 
 [NOTE]
 ====
