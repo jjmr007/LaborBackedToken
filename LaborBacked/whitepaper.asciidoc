@@ -2,18 +2,18 @@
 [paper]
 == Un Sistema de Tokens Respaldados por la Producción y Labores
 
-[NOTE]
+[NOTA]
 ====
-((("whitepaper", id="whitethirteen")))((("bitcoin whitepaper", id="BCwhitethirteen")))((("Nakamoto, Satoshi", id="nakamatothirteen")))This is the original whitepaper, reproduced in its entirety exactly as it was published by Satoshi Nakamoto in October 2008.
+((("whitepaper", id="white")))((("token productivo whitepaper", id="labortokenwhite")))((("Moros, Julio", id="moros")))Esta es la primera versión de propuesta, para una plataforma comercial de activos digitales respaldados por la labor humana y la producción industrial y comercial.
 ====
 
-=== Bitcoin - A Peer-to-Peer Electronic Cash System
+=== Club de Letras - Un Sistema de Tokens Respaldados por la Producción Industrial/Comercial y la Labor Humana
 
-Satoshi Nakamoto
+Julio Moros
 
-_satoshin@gmx.com_
+_jjmorosr@gmail.com_
 
-pass:[<a href="https://bitcoin.org/en/" class="orm:hideurl"><em>www.bitcoin.org</em></a>]
+pass:[<a href="http://clubdeletras.cf" class="orm:hideurl"><em>club de letras</em></a>]
 
 *Abstract.* A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. We propose a solution to the double-spending problem using a peer-to-peer network. The network timestamps transactions by hashing them into an ongoing chain of hash-based proof-of-work, forming a record that cannot be changed without redoing the proof-of-work. The longest chain not only serves as proof of the sequence of events witnessed, but proof that it came from the largest pool of CPU power. As long as a majority of CPU power is controlled by nodes that are not cooperating to attack the network, they'll generate the longest chain and outpace attackers. The network itself requires minimal structure. Messages are broadcast on a best effort basis, and nodes can leave and rejoin the network at will, accepting the longest proof-of-work chain as proof of what happened while they were gone.
 
