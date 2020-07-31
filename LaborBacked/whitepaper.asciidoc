@@ -4,7 +4,7 @@
 
 [NOTA]
 ====
-((("whitepaper", id="whitethirteen")))((("token productivo whitepaper", id="labortokenwhitethirteen")))((("Moros, Julio", id="morosthirteen")))Esta es la primera versión de propuesta, para una plataforma comercial de activos digitales respaldados por la labor humana y la producción industrial y comercial.
+((("whitepaper", id="whitethirteen")))((("token productivo whitepaper", id="BCwhitethirteen")))((("Moros, Julio", id="morosthirteen")))Esta es la primera versión de propuesta, para una plataforma comercial de activos digitales respaldados por la labor humana y la producción industrial y comercial.
 ====
 
 === Club de Letras - Un Sistema de Tokens Respaldados por la Producción Industrial/Comercial y la Labor Humana
