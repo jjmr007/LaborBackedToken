@@ -2,7 +2,7 @@
 [paper]
 == Un Sistema de Tokens Respaldados por la Producción y Labores
 
-[NOTE]
+[NOTA]
 ====
 ((("whitepaper", id="whitethirteen")))((("bitcoin whitepaper", id="BCwhitethirteen")))((("Nakamoto, Satoshi", id="nakamatothirteen")))This is the original whitepaper, reproduced in its entirety exactly as it was published by Satoshi Nakamoto in October 2008.
 ====
